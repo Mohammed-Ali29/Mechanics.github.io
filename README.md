@@ -7,5 +7,5 @@
 -Computational Physics (C++, Python, Fortran) 
 
 ## Content
-[Solved Problems](problems/electromagnetism.html) - 
+[Solved Problems](problems) - 
 [Projects](projects/)
